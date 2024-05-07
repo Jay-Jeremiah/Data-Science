@@ -1,0 +1,23 @@
+    Data Science is all about gathering data, analysis of the data and decision making
+    It helps in decision making,predictive analysis and pattern discoveries
+
+How does a data scientist work?
+It requires one to be conversant with the following:
+    Machine learning
+    Statistics
+    Programming
+    Mathematics
+    Databases
+
+A data scientist should find patterns within the data, he organises data in an organised 
+format.
+    
+    Python is a language highly used in data science
+It has in-built libraies with a collection of mathematical functions and analytical tools
+
+Libraries in python 
+
+Pandas - Used for structured data operatios e.g importing dataframes, CSV files and data preparation
+Numpy - A mathematical library with dimensional array objects, linear objects
+Matplotlib - Library used for visualization of data
+SciPy - This library has linear algebra modules
