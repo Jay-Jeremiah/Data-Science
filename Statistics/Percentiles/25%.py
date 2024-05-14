@@ -8,4 +8,4 @@ Calories = full_health_data["Calorie_Burnage"]
 
 percent25 = np.percentile(Calories, 25)
 
-print("The 25th percentile is ", percent25)
+print("The 25th percentile is", percent25)
