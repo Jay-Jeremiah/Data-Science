@@ -8,4 +8,4 @@ Max_Pulse = full_health_data["Max_Pulse"]
 
 percentile10 = np.percentile(Max_Pulse, 10)
 
-print(percentile10)
+print("Th 10th percentile is ", percentile10)
