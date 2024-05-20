@@ -1,5 +1,5 @@
-Duration,Average_Pulse,Max_Pulse,Calorie_Burnage,Hours_Work,Hours_Work
-30,80,120,240,10,8
+Duration,Average_Pulse,Max_Pulse,Calorie_Burnage,Hours_Work,Hours_Sleep
+30,80,120,240,10,7
 45,85,120,250,10,7
 45,90,130,260,8,7
 60,95,130,270,8,7
