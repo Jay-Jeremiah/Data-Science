@@ -1,0 +1,21 @@
+Classes - A blueprint of the objects, can be a template.
+
+Objects - An entity that we interact with
+
+Attribute - the object characteristic
+
+Method - the action that the object can do
+
+Incase of two objects of the same class, python has to diffrentiate them
+We use *self* keyword to do so
+
+Self points to the memory address where each object of the class is stored
+
+class - keyword to define a class
+
+init method - stores initial values for all the instance attributes
+    Created like +___init___()
+    first argument must be self
+    we access the attributes using the dot 
+The attributes inside the init method are specific for the instance called instance attributes
+Attributes that are shared between all instances are called class attributes and defined outside the init method
