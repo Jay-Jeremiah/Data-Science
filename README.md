@@ -1,2 +1,2 @@
 # Data-Science
-Shows data science files
+Shows tips on how data scientists analyse data using the different python libraries
